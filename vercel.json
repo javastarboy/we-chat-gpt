@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/WeChatController.py": {
+      "runtime": "vercel-python@0.3.0"
+    }
+  }
+}
+
